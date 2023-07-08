@@ -1,8 +1,7 @@
 # SSH-PLUS
 
-# @donomodderajuda
+# @MauDaVpn
 
-PROJETO EM ANDAMENTO...
 
 
 # 👇👽👍
@@ -15,6 +14,6 @@ Só joga na máquina e deixar instalar
 • instala recursos e o script
 
 
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/modderajuda/websocketsecurity/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/mauvadao4g/websocketsecurity/main/ssh-plus)
 
 # PRO
